@@ -1,0 +1,3 @@
+Pacientes rejeitados na carga:
+linha 10: CPF invalido (digito verificador): 11122233300
+linha 11: paciente sem todos os campos: 55566677788

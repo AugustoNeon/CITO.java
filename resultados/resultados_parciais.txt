@@ -1,0 +1,101 @@
+[16/06/2026 10:48:18] Pesquisa #1
+Pacientes do medico 1
+  Paciente: Ana Souza (12345678909)
+  Paciente: Bruno Lima (98765432100)
+  Paciente: Carla Mendes (11144477735)
+
+[16/06/2026 10:48:18] Pesquisa #2
+Consultas do medico 1 no periodo 01/01/2024-31/12/2026
+  15/01/2024 14:00 | medico 1 | paciente 98765432100
+  10/03/2025 09:00 | medico 1 | paciente 12345678909
+  05/05/2026 08:30 | medico 1 | paciente 11144477735
+  20/08/2026 10:00 | medico 1 | paciente 12345678909
+
+[16/06/2026 10:48:18] Pesquisa #3
+Pacientes do medico 1 sem consulta ha mais de 12 meses
+  Paciente: Ana Souza (12345678909)
+  Paciente: Bruno Lima (98765432100)
+
+[16/06/2026 10:48:18] Pesquisa #4
+Medicos da paciente 12345678909
+  Medico: Dr. Marcos Pereira (cod 1)
+  Medico: Dra. Sofia Ribeiro (cod 2)
+
+[16/06/2026 10:48:18] Pesquisa #5
+Consultas realizadas da paciente 12345678909 com medico 1
+  10/03/2025 09:00 | medico 1 | paciente 12345678909
+
+[16/06/2026 10:48:18] Pesquisa #6
+Consultas agendadas da paciente 12345678909
+  20/08/2026 10:00 | medico 1 | paciente 12345678909
+  12/09/2026 11:00 | medico 2 | paciente 12345678909
+
+[16/06/2026 11:12:40] Pesquisa #1
+Pacientes do medico 123456
+  (nenhum resultado)
+
+[16/06/2026 11:12:43] Pesquisa #2
+Consultas do medico 123456 no periodo
+  (nenhum resultado)
+
+[16/06/2026 11:12:58] Pesquisa #3
+Pacientes do medico 123456 sem consulta ha mais de 2 meses
+  (nenhum resultado)
+
+[16/06/2026 11:13:03] Pesquisa #4
+Pacientes do medico 123456
+  (nenhum resultado)
+
+[16/06/2026 11:13:04] Pesquisa #5
+Consultas do medico 123456 no periodo
+  (nenhum resultado)
+
+[16/06/2026 11:13:10] Pesquisa #6
+Pacientes do medico 123456 sem consulta ha mais de 2 meses
+  (nenhum resultado)
+
+[16/06/2026 11:15:27] Pesquisa #7
+Medicos do paciente 12345678909
+  Medico: Dr. Marcos Pereira (cod 1)
+  Medico: Dra. Sofia Ribeiro (cod 2)
+
+[16/06/2026 11:15:36] Pesquisa #8
+Consultas agendadas do paciente 12345678909
+  20/08/2026 10:00 | medico 1 | paciente 12345678909
+  12/09/2026 11:00 | medico 2 | paciente 12345678909
+
+[16/06/2026 11:17:07] Pesquisa #1
+Pacientes do medico 1
+  Paciente: Ana Souza (12345678909)
+  Paciente: Bruno Lima (98765432100)
+  Paciente: Carla Mendes (11144477735)
+
+[16/06/2026 11:17:40] Pesquisa #2
+Consultas do medico 1 no periodo
+  15/01/2024 14:00 | medico 1 | paciente 98765432100
+  10/03/2025 09:00 | medico 1 | paciente 12345678909
+  05/05/2026 08:30 | medico 1 | paciente 11144477735
+  20/08/2026 10:00 | medico 1 | paciente 12345678909
+
+[16/06/2026 11:17:53] Pesquisa #3
+Pacientes do medico 1 sem consulta ha mais de 12 meses
+  Paciente: Ana Souza (12345678909)
+  Paciente: Bruno Lima (98765432100)
+
+[16/06/2026 11:18:07] Pesquisa #4
+Medicos do paciente 12345678909
+  Medico: Dr. Marcos Pereira (cod 1)
+  Medico: Dra. Sofia Ribeiro (cod 2)
+
+[16/06/2026 11:18:11] Pesquisa #5
+Consultas realizadas do paciente 12345678909 com o medico 1
+  10/03/2025 09:00 | medico 1 | paciente 12345678909
+
+[16/06/2026 11:18:26] Pesquisa #6
+Consultas realizadas do paciente 12345678909 com o medico 4
+  (nenhum resultado)
+
+[16/06/2026 11:18:39] Pesquisa #7
+Consultas agendadas do paciente 11144477735
+  19/06/2026 10:30 | medico 4 | paciente 11144477735
+
