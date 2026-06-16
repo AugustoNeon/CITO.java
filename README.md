@@ -1,6 +1,6 @@
 # CITO - Médicos e Pacientes
 
-Trabalho de Programação Orientada a Objetos (RA2 e RA3).
+Trabalho de Programação Orientada a Objetos.
 
 Aplicação que gerencia médicos, pacientes e consultas. É formada por dois programas:
 
@@ -12,12 +12,13 @@ Aplicação que gerencia médicos, pacientes e consultas. É formada por dois pr
 É necessário ter o Java instalado (JDK 17 ou superior).
 
 ### Jeito mais simples
-Dê um duplo-clique em **`EXECUTAR.bat`**. Ele compila (se ainda não estiver compilado), gera a base com o P1 (se ainda não existir) e abre a interface gráfica.
+Execute **`EXECUTAR.bat`**. Ele compila (se ainda não estiver compilado), gera a base com o P1 (se ainda não existir) e abre a interface gráfica.
 
 ### Rodando os programas separadamente
-1. `compilar.bat` — compila o código para a pasta `bin`
-2. `rodar_p1.bat` — roda o P1 e gera `dados/base.dat`
-3. `rodar_p2.bat` — roda o P2 (interface gráfica)
+- `p1.bat` — roda o P1 e gera `dados/base.dat`
+- `p2.bat` — roda o P2 (interface gráfica)
+
+(Os dois compilam o código sozinhos na primeira vez, caso a pasta `bin` ainda não exista.)
 
 ### Pela linha de comando
 ```
@@ -51,4 +52,3 @@ O `pacientes.csv` tem de propósito duas linhas inválidas (um CPF com dígito v
 | `resultados_parciais.txt` | resultado de cada pesquisa, com data e hora |
 | `resultados_finais.txt` | resumo do fim da sessão |
 
-O arquivo `MAPEAMENTO_REQUISITOS.txt` mostra onde cada item das fichas de avaliação RA2 e RA3 está atendido no código.
